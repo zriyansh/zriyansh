@@ -7,4 +7,5 @@ I write on Medium, have a look
 - [Best of Codepen Design 2021!](https://zriyansh.medium.com/best-of-codepen-designs-2021-1fba34e4a50e)
 - [Famous Hollywood Lines !n Programming World!](https://zriyansh.medium.com/famous-hollywood-lines-n-software-industry-4b47785e9fd2)
 - [What if Bollywood was a Programming Industry?](https://zriyansh.medium.com/what-if-bollywood-was-a-software-industry-b59db68eb069)
-- 
+
+
