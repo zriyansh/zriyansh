@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I write on Medium, have a look
+I write on Medium(for now) and code, have a look
 - [Data Structures and Algorithms in Real Life](https://zriyansh.medium.com/data-structures-and-algorithms-in-real-life-6b2b813d516e) [9 min read] <br>
 Often asked in Interviews, Practical examples of Data Structures like **Array's** are used in **Music Players**, **Queue** is used in **Printer**, etc. Must read if you're preparing for interviews.
 
