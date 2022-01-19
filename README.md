@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) <br>
-45k views!<br>
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white?link=https://google.com?label=asd) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white?label=sdsdsds)
+<br>45k views!<br>
 I write on Medium(for now) and code, have a look
 - [Data Structures and Algorithms in Real Life](https://zriyansh.medium.com/data-structures-and-algorithms-in-real-life-6b2b813d516e) [9 min read] <br>
 Often asked in Interviews, Practical examples of Data Structures like **Array's** are used in **Music Players**, **Queue** is used in **Printer**, etc. Must read if you're preparing for interviews.
