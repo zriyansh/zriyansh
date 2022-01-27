@@ -20,3 +20,6 @@ The only article you need to get a bird's-eye view of plethora of programming la
 - [17 mistakes in your resume that can cost you a Job](https://zriyansh.medium.com/stop-ruining-your-r%C3%A9sum%C3%A9-c8ca15de5a98) [12 min read] <br>
 The best article I've ever written. I bet you, I double bet you, you'll definitely change your resume after reading this. 
 
+
+
+![Priyansh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zriyansh)
