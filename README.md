@@ -28,5 +28,3 @@ The only article you need to get a bird's-eye view of plethora of programming la
 The best article I've ever written. I bet you, I double bet you, you'll definitely change your resume after reading this. 
 
 
-
-![Priyansh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zriyansh)
