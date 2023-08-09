@@ -1,6 +1,6 @@
 hi there I am priyansh khodiyar, hmm
 
-- I am actively looking to work in the OpenTelemetry field as an *`INTERN`* since I will be graduating in 2024.
+- I am actively looking to work in the DevOps space (Kubernetes) graduating in 2024.
 - My previous experience includes working with @SigNoz - an open source APM,  as a `DevRel intern`. 
 - If you are someone looking for a suitable candidate, reach out to me at `khodiyarPriyansh@googlemail.com`
 
