@@ -1,4 +1,4 @@
-hi there I am priyansh khodiyar
+hi there I am priyansh khodiyar priyanshkhodiyar.27@gmail.com
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white?link=https://google.com?label=asd) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white?label=sdsdsds)
